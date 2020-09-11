@@ -7,5 +7,5 @@ ListStackDataStrucClass has private inner class called StackNode. BaseConverter 
 Test data is hardcoded into the demo program to test for:
 
 a) 72 (base 10 -> base 4)
-b) 53 (base 10 -> base 2)
-c) 3553 (base 10 -> base 8)
+ b) 53 (base 10 -> base 2)
+ c) 3553 (base 10 -> base 8)
